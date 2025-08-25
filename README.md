@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Rifqi!
 
 <!--
 **rifqialfajar/rifqialfajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![nasa](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpvaXdmaXJvZnY4ejhzeWN5NDNycHZqcTE4YzZyYnJrd2twenY4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IoOlNyP7CzAVKRHYoU/giphy.gif)
