@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![nasa](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpvaXdmaXJvZnY4ejhzeWN5NDNycHZqcTE4YzZyYnJrd2twenY4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IoOlNyP7CzAVKRHYoU/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpvaXdmaXJvZnY4ejhzeWN5NDNycHZqcTE4YzZyYnJrd2twenY4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IoOlNyP7CzAVKRHYoU/giphy.gif" width="100%" />
+</p>
