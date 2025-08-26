@@ -1,4 +1,6 @@
-## Hi, I'm Rifqi!
+## 
+
+![rifqialfajar](img/github-header-banner.png)
 
 <!--
 **rifqialfajar/rifqialfajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmpvaXdmaXJvZnY4ejhzeWN5NDNycHZqcTE4YzZyYnJrd2twenY4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IoOlNyP7CzAVKRHYoU/giphy.gif" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph.svg">
+</picture>
