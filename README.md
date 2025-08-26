@@ -1,6 +1,6 @@
 ## 
 
-![rifqialfajar](img/github-header-banner.png)
+![rifqialfajar](img/github-header-banner2.png)
 
 <!--
 **rifqialfajar/rifqialfajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph.svg">
 </picture>
+
+###
