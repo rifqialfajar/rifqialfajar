@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JtcGFoMTM5MXVnZXE5ZTN1emVxNGI5bTMyZWt6bWMxbnUyNnlkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BMfsFjz03H1vfy7OXr/giphy.gif"  />
-</div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-rifqi-al-fajar-438159332/" target="_blank">
