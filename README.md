@@ -1,7 +1,7 @@
 ## 
-
+<!--
 ![rifqialfajar](img/github-header-banner.png)
-
+>
 <!--
 **rifqialfajar/rifqialfajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=good%2C+let+them+watch+me+win;we+matured+by+damage%2C+not+age;the+less+i+cared+the+better+i+felt;calm+down;yaa+okeee."
+    alt="Typing SVG"
+  />
+</div>
 
 
 
@@ -31,9 +38,21 @@ Here are some ideas to get you started:
 
 ###
 
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rifqialfajar.rifqialfajar&"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rifqialfajar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+-->
 
 ###
 
@@ -57,20 +76,8 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rifqialfajar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph.svg">
 </picture>
-
-###
