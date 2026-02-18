@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F0OXZpNXV0Zzl1cjI5Y2VheHV0YWU0OTRtdW5jeDJqbjJ1ZXB0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PlUJvE9FrSF4nofTio/giphy.gif" width="400">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU0bjFqeDN4ZGx0cWZxZmFhdXJnNm9iMm9jMDh1amVrdndyNGZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nOAEUy0N6jIu7EW4vz/giphy.gif" width="400">
 </p>
 
 <h1 align="center">Hi there, I'm Rifqialfajar! 🚀</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifqialfajar&label=Profile%20views&color=0e75b6&style=flat" alt="rifqialfajar" />
-</p>
+
 
 ### ⚡ About Me
 
@@ -58,10 +56,7 @@ I am a **12th-grade Software Engineering student** from Banjarbaru, Indonesia, w
 
 ### 📊 My Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rifqialfajar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqialfajar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
 <picture>
