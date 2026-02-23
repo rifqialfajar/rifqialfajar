@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU0bjFqeDN4ZGx0cWZxZmFhdXJnNm9iMm9jMDh1amVrdndyNGZ0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nOAEUy0N6jIu7EW4vz/giphy.gif" width="400">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3AwNjQxNHpncW9qY2NneXFvbWpoOWZtajhyN3oxdHBqYWN1bTByMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieQHmkjxSiLGC08/giphy.gif" width="400">
 </p>
 
 <h1 align="center">Hi there, I'm Rifqialfajar! 🚀</h1>
@@ -27,15 +27,15 @@ Hi, I’m Rifqi, a 12th-grade Software Engineering student at **SMK Telkom Banja
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqialfajar&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqialfajar&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" height="150" alt="languages card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqialfajar&show_icons=true&theme=react&rank_icon=github" alt="Rifqi's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqialfajar&layout=compact&theme=react" alt="Most Used Languages" height="170" />
 </div>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/github-snake.svg" alt="Snake animation" /> 
 </p>
 
 ---
@@ -49,3 +49,4 @@ Hi, I’m Rifqi, a 12th-grade Software Engineering student at **SMK Telkom Banja
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
+
