@@ -26,15 +26,6 @@ Hi, I’m Rifqi, a 12th-grade Software Engineering student at **SMK Telkom Banja
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqialfajar&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqialfajar&layout=compact&theme=radical" alt="Top Languages" height="175" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 <p align="center">
  <img src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/snake.svg" alt="Snake animation" /> 
