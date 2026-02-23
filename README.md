@@ -4,77 +4,48 @@
 
 <h1 align="center">Hi there, I'm Rifqialfajar! 🚀</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Web+Developer+%26+Designer;Passionate+about+Efficiency" alt="Typing SVG" />
+</p>
 
+---
 
-### ⚡ About Me
-
-I am a **12th-grade Software Engineering student** from Banjarbaru, Indonesia, with a deep interest in Web Development & Design. My goal is to create applications that don't just look good, but work seamlessly.
-
-- 🔭 **Current Focus:** Refining my web development skills (React & Next.js).
-- 🛤️ **Journey:** Started coding in 10th grade and haven't stopped since.
-- 🎓 **Education:** SMK Telkom Banjarbaru.
-- 🎯 **Goal:** Documenting my growth as a future professional in the tech industry.
+### 💫 About Me
+Hi, I’m Rifqi, a 12th-grade Software Engineering student at **SMK Telkom Banjarbaru**. I’m passionate about web development and design, focusing on building applications that are both visually appealing and functionally efficient. I started programming in 10th grade and continue to grow through hands-on projects and self-learning. This portfolio documents my journey and my goal of exploring my potential in the field of technology.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<details open>
-  <summary><b>Frontend & Design</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Backend & Database</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  </p>
-</details>
-
-<details open>
-  <summary><b>Dev Tools</b></summary>
-  <p>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
-</details>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,tailwind,laravel,mysql&perline=9" alt="Tech Stack" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva&perline=5" alt="Tools" />
+</div>
 
 ---
 
-### 📊 My Statistics
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqialfajar&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqialfajar&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" height="150" alt="languages card" />
+</div>
 
+---
 
-
+### 🐍 Contribution Snake
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph.svg">
-</picture>
+  <img src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
-
+### 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rifqialfajar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/rifqialfajar_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
