@@ -4,12 +4,12 @@
 
 <h1 align="center">Hi there, I'm Rifqialfajar! 🚀</h1>
 
+
+
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Web+Developer+%26+Designer;Passionate+about+Efficiency" alt="Typing SVG" />
 </p>
-
----
-
 ### 💫 About Me
 Hi, I’m Rifqi, a 12th-grade Software Engineering student at **SMK Telkom Banjarbaru**. I’m passionate about web development and design, focusing on building applications that are both visually appealing and functionally efficient. I started programming in 10th grade and continue to grow through hands-on projects and self-learning. This portfolio documents my journey and my goal of exploring my potential in the field of technology.
 
@@ -35,7 +35,7 @@ Hi, I’m Rifqi, a 12th-grade Software Engineering student at **SMK Telkom Banja
 
 ### 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/github-snake.svg" alt="Snake animation" /> 
+ <img src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/snake.svg" alt="Snake animation" /> 
 </p>
 
 ---
