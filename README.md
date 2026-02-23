@@ -10,6 +10,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Web+Developer+%26+Designer;Passionate+about+Efficiency" alt="Typing SVG" />
 </p>
+
 ### 💫 About Me
 Hi, I’m Rifqi, a 12th-grade Software Engineering student at **SMK Telkom Banjarbaru**. I’m passionate about web development and design, focusing on building applications that are both visually appealing and functionally efficient. I started programming in 10th grade and continue to grow through hands-on projects and self-learning. This portfolio documents my journey and my goal of exploring my potential in the field of technology.
 
@@ -26,9 +27,10 @@ Hi, I’m Rifqi, a 12th-grade Software Engineering student at **SMK Telkom Banja
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqialfajar&show_icons=true&theme=react&rank_icon=github" alt="Rifqi's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqialfajar&layout=compact&theme=react" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqialfajar&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqialfajar&layout=compact&theme=radical" alt="Top Languages" height="175" />
 </div>
 
 ---
