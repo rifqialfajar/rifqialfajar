@@ -28,7 +28,7 @@ Hi, I’m Rifqi, a 12th-grade Software Engineering student at **SMK Telkom Banja
 
 ### 🐍 Contribution Snake
 <p align="center">
- <img src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/snake.svg" alt="Snake animation" /> 
+<img src="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
