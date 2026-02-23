@@ -28,6 +28,7 @@ Hi, I’m Rifqi, a 12th-grade Software Engineering student at **SMK Telkom Banja
 
 ### 🐍 Contribution Pacman
 <p align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifqialfajar/rifqialfajar/output/pacman-contribution-graph.svg">
