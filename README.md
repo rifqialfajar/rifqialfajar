@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="font-size: 2em; font-weight: bold;">Hi there, I'm Rifqialfajar! 🚀</span> <br/>
+  <h1>Hi there, I'm Rifqialfajar! 🚀</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=20&pause=1000&color=40C463&center=true&vCenter=true&width=435&lines=A+student+learning+web+%26+design;Software+Engineering+Student;Passionate+About+Web+Development;Building+Modern+Web+Applications" alt="Typing SVG" />
 </div>
 
