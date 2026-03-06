@@ -18,29 +18,31 @@ Hi, I’m Rifqi, a 12th-grade Software Engineering student at SMK Telkom Banjarb
 
 ### 💻 What I’m Learning.
 
+<div align="center">
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <strong>Core Development</strong><br />
       <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&theme=dark" />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <strong>Frameworks & Libraries</strong><br />
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel&theme=dark" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <strong>Design Tools</strong><br />
       <a href="https://www.figma.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
       <a href="https://www.canva.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <strong>Workflow</strong><br />
       <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
